@@ -1,6 +1,6 @@
 # Villa Brezo Components
 
-This is a project based in the design that i found in [Dribble](https://dribbble.com/shots/14988703-Villa-Brezo-Components/attachments/6709129?mode=media)
+This project is based in the design that i found in [Dribble](https://dribbble.com/shots/14988703-Villa-Brezo-Components/attachments/6709129?mode=media)
 
 ## Live View
 
