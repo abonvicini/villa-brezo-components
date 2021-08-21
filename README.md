@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Villa Brezo Components
+
+This project is based in the design that i found in [Dribble](https://dribbble.com/shots/14988703-Villa-Brezo-Components/attachments/6709129?mode=media)
+
+## Live View
+
+You can take a look of this project in [this link](https://villa-brezo-components-evtixtill-alexisbonvicini.vercel.app)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
