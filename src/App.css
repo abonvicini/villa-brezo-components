@@ -1,17 +1,13 @@
 .App {
-  height: 100vh;
-  text-align: center;
   display: grid;
-  grid-template-columns: 2fr 1fr 2fr;
-  grid-template-rows: 2fr 1fr 2fr;
-  grid-gap: 2em;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 350px));
+  justify-content: space-evenly;
+  grid-gap: 1em;
+  
+
+   
 
 }
 
-.card {
 
-  grid-column: 2/3;
-  grid-row: 2/3; 
-
-}
 

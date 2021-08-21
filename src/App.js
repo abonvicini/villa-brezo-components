@@ -4,12 +4,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      
-      <Card className="card"></Card>
-
-      
-    </div>
+    <div className="App">  
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+     </div>
   );
 }
 
