@@ -4,7 +4,7 @@ import "./Card.css"
 
 const Card = () => {
   return (
-    <div className="main-container">
+   
 
       <div className="card">
         <img className="img" src={imgHouse} alt="Imagen de una casa" />
@@ -13,7 +13,7 @@ const Card = () => {
         </p>
       </div>
 
-    </div>
+    
 
   )
 }

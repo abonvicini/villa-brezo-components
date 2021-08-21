@@ -1,11 +1,3 @@
-.main-container {
-
-
- border: 5px salmon solid;
- box-sizing: content-box;
- 
-}
-
 .card {
   display: grid;
   background-color: #DDDCDB;
@@ -13,26 +5,25 @@
   padding: 1.2em;
   border-radius: 20px;
   overflow-wrap: break-word;
+  box-shadow: 0 5px 10px -3px rgba(0, 0, 0, 0.3);
+  margin-top: 2em;
 
 }
 
 .img {
   width: 100%;
   height: 300px;
-  object-fit: cover;
-  
+  object-fit: cover;  
 }
 
 .card-paragraph {
   border-left: 1px solid #767575;
   color: #333333;
-  font-weight: 400;
-  
+  font-weight: 400;  
   margin-top: 3.5em;
   margin-bottom: 1em;
   padding: 0 3.5em;
   font-size: 14px;
   line-height: 1.5em;
-  text-align: left;
-  
+  text-align: left;  
 }
