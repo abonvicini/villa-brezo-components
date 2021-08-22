@@ -1,0 +1,53 @@
+
+
+.card-news {
+  margin: 0;
+  box-sizing: content-box;
+  display: grid;
+  background-color: #DDDCDB;
+  padding: 1.2em;
+  border-radius: 20px;
+  box-shadow: 0 5px 10px -3px rgb(0 0 0 / 30%);
+}
+
+.card-title-news {
+  
+  margin: 0;
+  padding: 1rem;
+  color: #222222;
+  border-bottom: 1px solid #767575;
+  font-size: 10em;
+  font-weight: 600;
+  letter-spacing: -3px;
+  word-wrap: unset;
+  
+ }
+
+.card-paragraph-news {
+
+  color: #333333;
+  font-weight: 500;  
+  padding: 1em 0;
+  width: 50%;
+  font-size: .9rem;
+  letter-spacing: -1px;
+  line-height: 1.5em;
+  text-align: left;  
+}
+
+.card-button-news{
+  padding: 1.2em;
+  width: max-content;
+  border-radius: 2em;
+  background-color: #222222;
+  border-style: none;
+  color: #BDBDBD;
+}
+
+.card-button-news span {
+
+  color: #BDBDBD;
+  margin: 3em;
+
+  font-size: 1em;
+}
