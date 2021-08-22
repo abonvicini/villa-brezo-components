@@ -16,10 +16,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: rgb(226, 226, 226);
-  display: grid;
-  margin:auto;
-  height: 100vh;
-  align-content: center;
   background-color: rgb(68, 68, 68);
  
 

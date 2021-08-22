@@ -1,7 +1,11 @@
+#root{
+  display: grid;
+  gap: 3rem;
+}
+
 .App {
   display: flex;
-  justify-content: center;
-  
+  justify-content: center;  
 }
 
 
