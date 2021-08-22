@@ -4,7 +4,7 @@ This project is based in the design that i found in [Dribble](https://dribbble.c
 
 ## Live View
 
-You can take a look of this project in [this link](https://villa-brezo-components-evtixtill-alexisbonvicini.vercel.app)
+You can take a look of this project in [this link](https://villa-brezo-components.vercel.app/)
 
 ## Getting Started with Create React App
 
