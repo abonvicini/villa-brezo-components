@@ -1,12 +1,7 @@
 .App {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 350px));
-  justify-content: space-evenly;
-  grid-gap: 1em;
+  display: flex;
+  justify-content: center;
   
-
-   
-
 }
 
 
